@@ -46,7 +46,7 @@ body{
 }
 
 		/************ large device only *************/
-@media(min-width: 1200px){
+@media(min-width: 992px){
 #box {
 	width: 32.6%;
   background-color: green;
@@ -63,7 +63,7 @@ body{
 
 }
 		/************ meduim device only *************/
-@media (min-width: 992px) and (max-width: 1199px){
+@media (min-width: 768px) and (max-width: 991px){
 #box {
 	  
   background-color: red;
@@ -77,18 +77,15 @@ body{
   border: 1px solid black;
   width: 99%;
   margin: 4px;
-
-   
 }
 }
 		/************ smal device only *************/
-@media (max-width: 991px){
+@media (max-width: 767px){
 #box {
   background-color: red;
   border: 1px solid black;
   width: 100%;
-  margin: 4px;
-   
+  margin: 4px;   
 }
 #box1 {
   background-color: blue;
