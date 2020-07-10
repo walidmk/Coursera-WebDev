@@ -1,0 +1,45 @@
+body {
+  font-size: 16px;
+  
+  background-color: #ADD8E6;
+  font-family: 'Oxygen', sans-serif;
+}
+#header-nav{
+  background-color: #A1A1CD;
+  border-radius: 0;
+  border: 0;
+}
+
+#main-content{
+margin-left: 10px;
+margin-right: 10px;
+}
+.nav-brand{
+	clear: both;
+}
+span{
+	
+	
+}
+
+.text-center{
+	font-size: 2em;
+}
+#item-title {
+	display:block;
+	right: 0;
+	top: 0px;
+	width: 100% !important;
+ text-align:center;
+  font-size: 1.6em;
+  text-transform: uppercase;
+  background-color: #1675d66b;
+  color: #fff;
+}
+#item{
+	
+	position: relative;
+	border: 10px solid  #ADD8E6 ;
+	background-color: #2F4F4F;
+	text-decoration-color: #fff;
+}
