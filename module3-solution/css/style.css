@@ -27,6 +27,7 @@ span{
 }
 #item-title {
 	display:block;
+	padding: 0px;
 	right: 0;
 	top: 0px;
 	width: 100% !important;
@@ -37,9 +38,13 @@ span{
   color: #fff;
 }
 #item{
-	
+	padding: 0px;
 	position: relative;
 	border: 10px solid  #ADD8E6 ;
 	background-color: #2F4F4F;
 	text-decoration-color: #fff;
+}
+#item-text{
+	padding-right: 15px;
+	padding-left: 15px;
 }
